@@ -7,12 +7,12 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("Devil_dragon.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+*Creator number : wa.me/919188171178?text=Hi%20Amalesh%20unnichan.%20*
 
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+*Team SIRMFC VERIFICATION : https://chat.whatsapp.com/Kth1OvLFx9rEdN2G9OPcZC*
 
 *Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
 
