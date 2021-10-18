@@ -14,13 +14,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Team SIRMFC VERIFICATION : https://chat.whatsapp.com/Kth1OvLFx9rEdN2G9OPcZC*
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
+*Githublink (Setup)  :    https://github.com/Killady/Devil_dragon*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/Killady/Devil_dragon/tree/master/uploads*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : https://github.com/Killady/Devil_dragon/tree/master/uploads*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
+*Devil_dragon supporting army : https://chat.whatsapp.com/GUQv2nnaei08nxUEHnIG26* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
